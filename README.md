@@ -1,4 +1,6 @@
-## Radiuz Studio 👋
+## Radiuz Studio
+
+We design and build custom websites, web applications, and mobile applications engineered to help scaling to your business.
 
 <!--
 **radiuz-studio/radiuz-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
